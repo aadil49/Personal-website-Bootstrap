@@ -1,0 +1,32 @@
+html{
+  scroll-behavior: smooth;
+}
+
+.header{
+  position: fixed; 
+  width: 100%; 
+  z-index: 1;
+}
+
+.home{
+  padding-top: 7em; 
+  padding-bottom: 1.5rem;
+}
+
+#cards{
+  text-decoration: none;
+  
+}
+
+.btn{
+  width: 100%;
+}
+
+.socialicons{
+  display: flex;
+  justify-content: center;
+}
+
+.socialicons a{
+  justify-items: center;
+}
